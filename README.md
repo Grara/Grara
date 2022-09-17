@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <br><br><br><br>
-<h1>✍Challenge</h1>
+<h1>✍Studying</h1>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
+<img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <!--
 **Grara/Grara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
