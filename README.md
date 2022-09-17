@@ -1,8 +1,15 @@
-### Hi there 👋
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<div align = center>
+<h1>👨‍🎓Stack</h1>
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<br><br><br><br>
+<h1>✍Challenge</h1>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
 <!--
 **Grara/Grara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
