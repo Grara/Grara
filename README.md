@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
-
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  
 </div>
 
 <h1 align= center>🛠Project</h1> 
