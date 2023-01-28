@@ -2,7 +2,7 @@
 
 <div align = center>
   
-ㅎ2~ ✋
+실전압축개발자가 되고싶은 Grara입니당 ✋
 
 <h1>👨‍🎓Stack</h1>
 
