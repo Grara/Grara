@@ -40,3 +40,6 @@
 2. 카카오톡 자동 응답 봇 구현
   - 설명 : 카카오톡 채팅을 통해 원하는 날짜의 근무자를 알려주는 자동 응답 봇을 구현했습니다.
   - 저장소 링크 : https://github.com/Grara/WorkShift
+3. 당근마켓 클론코딩
+  - 설명 : ios 당근마켓 클론 코딩 프로젝트입니다. ios2명, 백엔드2명으로 구성된 팀으로 진행하고있습니다.
+  - 저장소 링크 : https://github.com/Grara/karrot-clone-backend
